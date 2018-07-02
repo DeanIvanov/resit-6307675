@@ -4,7 +4,9 @@
         <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class"/>
     <elements>
         <element name="Book" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="Entity" positionX="-63" positionY="0" width="128" height="45"/>
     </elements>
 </model>
